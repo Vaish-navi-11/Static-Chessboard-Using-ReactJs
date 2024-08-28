@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vaish-navi-11/Static-Chessboard-Using-ReactJs.git/static/css/main.aabe9eae.css",
+    "main.js": "/Vaish-navi-11/Static-Chessboard-Using-ReactJs.git/static/js/main.84c738ba.js",
+    "static/js/453.c382ab85.chunk.js": "/Vaish-navi-11/Static-Chessboard-Using-ReactJs.git/static/js/453.c382ab85.chunk.js",
+    "index.html": "/Vaish-navi-11/Static-Chessboard-Using-ReactJs.git/index.html",
+    "main.aabe9eae.css.map": "/Vaish-navi-11/Static-Chessboard-Using-ReactJs.git/static/css/main.aabe9eae.css.map",
+    "main.84c738ba.js.map": "/Vaish-navi-11/Static-Chessboard-Using-ReactJs.git/static/js/main.84c738ba.js.map",
+    "453.c382ab85.chunk.js.map": "/Vaish-navi-11/Static-Chessboard-Using-ReactJs.git/static/js/453.c382ab85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aabe9eae.css",
+    "static/js/main.84c738ba.js"
+  ]
+}
